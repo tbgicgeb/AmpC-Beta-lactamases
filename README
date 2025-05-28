@@ -1,4 +1,4 @@
-# AmpC-Beta-lactamases
+AmpC-Beta-lactamases
 
 A Key to Antibiotic Resistance in ESKAPE Pathogens
 
@@ -39,12 +39,15 @@ AmpC-Beta-lactamases/
                          
 📂 Contents
 🗃️ Datasets/
-Raw Data: Contains genome data information (.xlsx) for each ESKAPE pathogen.
-BLDB: Contains GenPept accession (3781 protein sequences of Class C β-lactamases) used for annotation of AmpC genes present in ESKAPE pathogens from Beta-Lactamase DataBase (BLDB) database.
-Final_Dataset: Filtered set of 1,790 unique blaAmpC sequences in FASTA format.
+-Raw Data: Contains genome data information (.xlsx) for each ESKAPE pathogen.
+
+-BLDB: Contains GenPept accession (3781 protein sequences of Class C β-lactamases) used for annotation of AmpC genes present in ESKAPE pathogens from Beta-Lactamase DataBase (BLDB) database.
+
+-Final_Dataset: Filtered set of 1,790 unique blaAmpC sequences in FASTA format.
 
 
 🗃️ Analysis/
-AmpC_enzyme _groups: Contains FASTA files representing the nine enzyme groups (ADC, PDC, ACT, DHA, CMY, MIR, CMH, ACC, PIB) identified based on sequence homology and BLDB references.
-BLAST: BLAST results of ESKAPE pathogen genomes against BLDB blaAmpC sequences.
+-AmpC_enzyme _groups: Contains FASTA files representing the nine enzyme groups (ADC, PDC, ACT, DHA, CMY, MIR, CMH, ACC, PIB) identified based on sequence homology and BLDB references.
+
+-BLAST: BLAST results of ESKAPE pathogen genomes against BLDB blaAmpC sequences.
 
