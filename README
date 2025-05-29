@@ -38,6 +38,7 @@ AmpC-Beta-lactamases/
 📂 Contents
 
 🗃️ Datasets/
+
 -Raw Data: Contains genome data information (.xlsx) for each ESKAPE pathogen.
 
 -BLDB: Contains GenPept accession (3781 protein sequences of Class C β-lactamases) used for annotation of blaAmpC present in ESKAPE pathogens from Beta-Lactamase DataBase (BLDB) database.
@@ -46,6 +47,7 @@ AmpC-Beta-lactamases/
 
 
 🗃️ Analysis/
+
 -AmpC_enzyme _groups: Contains FASTA files representing the nine enzyme groups (ADC, PDC, ACT, DHA, CMY, MIR, CMH, ACC, PIB) identified based on sequence homology and BLDB references.
 
 -BLAST: BLAST results of ESKAPE pathogen genomes against BLDB Class C β-lactamases sequences.
